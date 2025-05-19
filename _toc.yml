@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+options:  # The options key will be applied to all chapters, but not sub-sections
+parts:
+  - caption: 复合材料力学I
+    numbered: True
+    chapters:
+    - file: content/wjj/chap1/intro
+  - caption: 复合材料力学II
+    numbered: True
+    chapters:
+    - file: content/wyt/chap1/intro
