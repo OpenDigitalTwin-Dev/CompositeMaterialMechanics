@@ -8,8 +8,8 @@ parts:
   - caption: 复合材料力学I
     numbered: True
     chapters:
-    - file: content/wjj/chap1/intro
+    - file: content/PartI/chap1/intro
   - caption: 复合材料力学II
     numbered: True
     chapters:
-    - file: content/wyt/chap1/intro
+    - file: content/PartII/chap1/intro
